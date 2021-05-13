@@ -6,9 +6,11 @@ REFLINK - https://www.section.io/engineering-education/building-a-nodejs-applica
 
 Step 1 - Creating a Node.js Application
 
-Install npm And Express Framework
+ I need to add it to the package.json file, so I run
 
 	npm init
+	
+	npm init -y
 
 Step 2 - Create A DockerFile
 
