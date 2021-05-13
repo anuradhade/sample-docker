@@ -2,6 +2,7 @@
 Sample docker image
 
 REFLINK - https://www.section.io/engineering-education/building-a-nodejs-application-using-docker/
+	  https://flaviocopes.com/docker-node-container-example/
 
 Step 1 - Creating a Node.js Application
 
