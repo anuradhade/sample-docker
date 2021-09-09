@@ -23,3 +23,6 @@ Step 4 - Run a Container
 	docker run -d -p <Host port>:<Docker port> <docker-image-name>
 	
 	docker run -d -p 8090:4000 --name sample-helow anuradha92/samhellonode:1.2
+
+
+Testing Anuradha
